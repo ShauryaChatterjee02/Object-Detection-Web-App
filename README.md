@@ -4,7 +4,8 @@
 This repository contains an object detection model capable of identifying various objects within an image. The model detects objects and draws bounding boxes around them, along with predicting the probability of each detection.
 
 ## Example Output
-![Image with Bounding Boxes](https://github.com/ShauryaChatterjee02/Object-Detection-Web-App/raw/main/assets/117979507/41543b72-b62f-4040-ad07-8280a1ec377d.jpg)
+![Image with Bounding Boxes](![traffic_signal_detected](https://github.com/ShauryaChatterjee02/Object-Detection-Web-App/assets/117979507/06c92350-e561-4e61-b588-93fcc98ba93e)
+)
 
 ## Usage
 1. Upload an image.
