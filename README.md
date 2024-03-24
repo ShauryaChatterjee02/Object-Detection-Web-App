@@ -5,7 +5,7 @@ This repository contains an object detection model capable of identifying variou
 
 ## Example Output
 ![Image with Bounding Boxes](![traffic_signal_detected](https://github.com/ShauryaChatterjee02/Object-Detection-Web-App/assets/117979507/06c92350-e561-4e61-b588-93fcc98ba93e)
-)
+
 
 ## Usage
 1. Upload an image.
